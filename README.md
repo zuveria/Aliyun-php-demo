@@ -33,3 +33,5 @@ foreach ($objectList as $objectInfo) {
   echo '<a href="'.OSSBUCKETURL.'/'.$oss_video_object.'" target="_blank">'. __('Watch Again','theme-text-domain') .'</a>';
 }  
 ```
+# Feedback
+Please post your suggestions and ideas on zuveria@gmail.com. Your comments on this project are appreciated.
